@@ -1,0 +1,15 @@
+#cover-photo{
+  @include box-shadow;
+  height: 60vh;
+  background-image: url("/src/imgs/defult-cover.jpg");
+  background-image: 
+    -webkit-image-set(
+      url('/src/imgs/small-cover.jpg') 1x,
+      url('/src/imgs/meduim-cover.jpg') 2x,
+      url('/src/imgs/full-cover.jpg') 3x,
+    );
+    background-position: 0 40%;
+    border: 5px solid $border;
+    border-radius: 20px;
+    background-size: cover;
+}

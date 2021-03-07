@@ -1,0 +1,13 @@
+.personal-name{
+  @extend .text-center;
+  font-family: $r-bold;
+}
+.hint-text{
+  font-family: $r-light;
+  color:$gray100;
+  font-size: 1rem;
+}
+.section-title{
+  font-family: $r-Semibold;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,27 @@
+
+a {
+  text-decoration: none;
+  &:hover{
+    text-decoration: none;
+  }
+}
+
+.edit-link{
+  position: absolute;
+  right: 15px;
+  top: -25px;
+  color:$gray200;
+  &:hover{
+    color:$primary;
+  }
+}
+
+.btn-primary{
+  background-color: $primary;
+  border-color:$primary;
+  &:hover{
+    background-color: $secondary;
+    border-color: $secondary;
+    color:$primary;
+  }
+}
