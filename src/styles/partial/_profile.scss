@@ -94,7 +94,6 @@
 }
 
 #posts {
-  
   .posts-container{
     -moz-column-count:2;
     -moz-column-gap: 0%;
@@ -121,6 +120,7 @@
       margin-bottom: 2rem;
       .box-with-shadow{
         height: auto;
+        width: 100%;
         .hint-text{
           @extend .float-right;
         }

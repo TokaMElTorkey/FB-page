@@ -1,0 +1,24 @@
+[
+  {
+    "userGallary": [
+      {
+        "imgMed": "../src/imgs/meduim-img1.jpg",
+        "imgFull": "../src/imgs/full-img1.jpg",
+        "imgSmall": "../src/imgs/small-img1.jpg",
+        "alt": "Img1"
+      },
+      {
+        "imgMed": "../src/imgs/meduim-img2.jpg",
+        "imgFull": "../src/imgs/full-img2.jpg",
+        "imgSmall": "../src/imgs/small-img2.jpg",
+        "alt": "Img2"
+      },
+      {
+        "imgMed": "../src/imgs/meduim-img3.jpg",
+        "imgFull": "../src/imgs/full-img3.jpg",
+        "imgSmall": "../src/imgs/small-img3.jpg",
+        "alt": "Img3"
+      }
+    ]
+  }
+]

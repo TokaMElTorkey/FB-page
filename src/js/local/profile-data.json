@@ -1,0 +1,15 @@
+[
+  {
+    "userInfo": {
+      "Img": "../../imgs/profile.jpg",
+      "name": "Toka ElTorkey",
+      "slogan": "Slogan here"
+    },
+    "userDetails": {
+      "liveIn": "Alexandria",
+      "from": "Alexandria, Egypt",
+      "education": "Faculty of commerce",
+      "dOB": "25/9"
+    }
+  }
+]

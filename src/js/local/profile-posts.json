@@ -1,0 +1,46 @@
+[
+  {
+    "userPost": [
+      {
+        "id": "1",
+        "name": "Toka ELTorkey",
+        "imgProfile": "../src/imgs/profile.jpg",
+        "imgProfileSmall": "../src/imgs/profile-small.jpg",
+        "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "commentedBy": "Toka Magdy",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "dateAndTime": "25/9 11:00 AM"
+      },
+      {
+        "id": "2",
+        "name": "Toka ELTorkey",
+        "post": "This is a post",
+        "imgProfile": "../src/imgs/profile.jpg",
+        "imgProfileSmall": "../src/imgs/profile-small.jpg",
+        "commentedBy": "Tokaa",
+        "comment": "Nice Post",
+        "dateAndTime": "9/6 11:00 AM"
+      },
+      {
+        "id": "3",
+        "name": "Toka ELTorkey",
+        "imgProfile": "../src/imgs/profile.jpg",
+        "imgProfileSmall": "../src/imgs/profile-small.jpg",
+        "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+        "commentedBy": "Toka",
+        "comment": "Wooow Amazing <3",
+        "dateAndTime": "27/03 11:00 AM"
+      },
+      {
+        "id": "4",
+        "name": "Toka ELTorkey",
+        "post": "This is a post",
+        "imgProfile": "../src/imgs/profile.jpg",
+        "imgProfileSmall": "../src/imgs/profile-small.jpg",
+        "commentedBy": "Tokaa",
+        "comment": "Nice Post",
+        "dateAndTime": "9/6 11:00 AM"
+      }
+    ]
+  }
+]
